@@ -1,7 +1,12 @@
 {
   "addons": {
     "tabpilot@gf-ntiedt": {
-      "updates": []
+      "updates": [
+        {
+          "version": "0.1.0",
+          "update_link": "https://gf-ntiedt.github.io/tabpilot/xpi/tabpilot-0.1.0.xpi"
+        }
+      ]
     }
   }
 }
