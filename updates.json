@@ -73,6 +73,10 @@
         {
           "version": "0.14.3",
           "update_link": "https://gf-ntiedt.github.io/tabpilot/xpi/tabpilot-0.14.3.xpi"
+        },
+        {
+          "version": "0.14.4",
+          "update_link": "https://gf-ntiedt.github.io/tabpilot/xpi/tabpilot-0.14.4.xpi"
         }
       ]
     }
